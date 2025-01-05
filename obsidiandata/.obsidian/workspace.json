@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "欢迎.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4dfc9f5535b2d16",
+  "active": "81604a35342cfddf",
   "lastOpenFiles": [
     "欢迎.md"
   ]
