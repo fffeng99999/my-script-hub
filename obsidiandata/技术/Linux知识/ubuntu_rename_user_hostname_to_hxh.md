@@ -53,6 +53,14 @@ sudo deluser tempadmin
 sudo rm -r /home/tempadmin
 ```
 
+还可以切使用以下命令关闭gui后使用tty加root用户完成。
+```bash
+sudo systemctl stop gdm3
+```
+
+按alt+f1等键切换到tty（笔记本注意fn的默认只想f1或者默认只想快捷键）。
+登录root用户，然后进行以上操作。
+
 三、重启系统：
 
 ```bash
