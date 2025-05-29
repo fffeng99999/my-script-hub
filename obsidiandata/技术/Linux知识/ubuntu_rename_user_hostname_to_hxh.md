@@ -72,3 +72,6 @@ sudo reboot
 用户名：hxh  
 主目录：/home/hxh  
 主机名：hxh
+
+
+test  
