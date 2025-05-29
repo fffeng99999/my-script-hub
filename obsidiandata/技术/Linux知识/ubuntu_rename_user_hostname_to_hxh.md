@@ -7,7 +7,7 @@
 
 不要在当前会话中直接将正在使用的用户名改成新的用户名，可以通过其他用户或 root 来执行。
 
-一、修改主机名为 hxh  
+**一、修改主机名为 hxh**  
 步骤：
 
 ```bash
@@ -20,7 +20,7 @@ sudo hostnamectl set-hostname hxh
 sudo sed -i "s/$(hostname)/hxh/g" /etc/hosts
 ```
 
-二、修改用户名为 hxh  
+**二、修改用户名为 hxh  **
 假设当前用户名是 olduser，你可以按如下步骤修改：
 
 创建一个临时管理员账号（可选但推荐）：
@@ -61,7 +61,7 @@ sudo systemctl stop gdm3
 按alt+f1等键切换到tty（笔记本注意fn的默认只想f1或者默认只想快捷键）。
 登录root用户，然后进行以上操作。
 
-三、重启系统：
+**三、重启系统：**
 
 ```bash
 sudo reboot
