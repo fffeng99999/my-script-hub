@@ -15,3 +15,8 @@ find . -type f -name Makefile | while read file; do
 done
 
 echo "✅ 所有路径已修改完成（已自动备份为 .bak 文件）"
+
+# 还原函数
+# find . -name "*.bak" | while read f; do
+#     mv "$f" "${f%.bak}"
+# done
