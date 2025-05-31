@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11766ce81f67e5c2",
+        "id": "76c46c1f605b7e69",
         "type": "tabs",
         "children": [
           {
-            "id": "c4dfc9f5535b2d16",
+            "id": "1f199cb22925cf32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,21 +16,9 @@
                 "file": "欢迎.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8fc212315bcb7351",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81604a35342cfddf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
             }
           }
         ]
@@ -52,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -68,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -76,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -99,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
@@ -115,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
             }
           },
           {
@@ -127,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -136,7 +141,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
             }
           }
         ]
@@ -156,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81604a35342cfddf",
+  "active": "10617858497a8928",
   "lastOpenFiles": [
     "欢迎.md"
   ]
