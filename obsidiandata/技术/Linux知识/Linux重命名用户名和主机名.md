@@ -73,5 +73,3 @@ sudo reboot
 主目录：/home/hxh  
 主机名：hxh
 
-
-test  
