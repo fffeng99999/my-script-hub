@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10617858497a8928",
+  "active": "1f199cb22925cf32",
   "lastOpenFiles": [
     "技术/并行计算/超算比赛/CUDA.md",
     "欢迎.md"
