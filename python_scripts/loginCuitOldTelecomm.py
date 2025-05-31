@@ -1,5 +1,5 @@
 # 开发时间：2023/6/18  20:43
-# @authored by Jam，改进 by ChatGPT 五百二版
+# @authored by Jam，改进 by cyberfffeng 五百二版
 
 import requests
 import urllib3
@@ -8,7 +8,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # === 基本信息 ===
 url = "https://10.254.241.3/webauth.do?&wlanacname=SC-CD-XXGCDX-SR8810-X"
-student_id = "2022051121"   # 👈 修改为你的账号
+student_id = ""   # 👈 修改为你的账号
 password = ""     # 👈 修改为你的密码
 
 # === POST 表单参数 ===
