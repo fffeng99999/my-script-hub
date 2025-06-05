@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/Linux知识/sduo不输入密码 Linux（Debain_Ubuntu）.md",
+                "file": "Markdown学习与练习/“ ' ”反引号的使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sduo不输入密码 Linux（Debain_Ubuntu）"
+              "title": "“ ' ”反引号的使用"
             }
           }
         ]
@@ -182,9 +182,13 @@
   },
   "active": "76bd334ba397cd64",
   "lastOpenFiles": [
-    "技术/Linux知识/Linux重命名用户名和主机名.md",
-    "技术/Linux知识/sduo不输入密码 Linux（Debain_Ubuntu）.md",
+    "Markdown学习与练习/Markdown插入Latex测试.md",
+    "Markdown学习与练习/“ ' ”反引号的使用.md",
     "技术/Linux知识/edit_cuda_path/Edit Cuda Path.md",
+    "未命名.md",
+    "Markdown学习与练习",
+    "技术/Linux知识/sduo不输入密码 Linux（Debain_Ubuntu）.md",
+    "技术/Linux知识/Linux重命名用户名和主机名.md",
     "技术/电脑快捷操作/use_command_quickly.md",
     "技术/电脑快捷操作",
     "技术/编译课程.md",
@@ -193,7 +197,6 @@
     "技术/Linux知识/shell终端文件名称的颜色和权限的对应关系.md",
     "技术/Linux知识/ls 使用方法.md",
     "技术/并行计算/高性能计算与并行计算.md",
-    "未命名.md",
     "技术/并行计算/超算比赛/CUDA.md"
   ]
 }
