@@ -11,14 +11,10 @@
             "id": "76bd334ba397cd64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown学习与练习/“ ' ”反引号的使用.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "“ ' ”反引号的使用"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/Linux知识/Linux重命名用户名和主机名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux重命名用户名和主机名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -162,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,15 +172,32 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "76bd334ba397cd64",
   "lastOpenFiles": [
-    "Markdown学习与练习/Markdown插入Latex测试.md",
+    "测试html引用.md",
+    "HTML import/MarkDown 中使用 LaTeX 数学式 - nowgood - 博客园.md",
+    "HTML import/Attachments/35695-20230906145857937-1471873834.gif",
+    "HTML import/Attachments/35695-20250603185123444-694370975.jpg",
+    "HTML import/Attachments/1182370-20170830201334046-1033111420.jpg",
+    "HTML import/Attachments/1182370-20170830201334046-1033111420(1).jpg",
+    "HTML import/Attachments/avatar-default.svg",
+    "HTML import/Attachments/lite-mode-on.svg",
+    "HTML import/Attachments/message.svg",
+    "HTML import/Attachments/myblog.svg",
+    "HTML import/Attachments/newpost.svg",
+    "HTML import/Attachments/enter.svg",
+    "HTML import/Attachments",
+    "HTML import/新标签页.md",
+    "HTML import",
+    "Markdown学习与练习/基本语法.md",
+    "www.baidu.com.md",
     "Markdown学习与练习/“ ' ”反引号的使用.md",
+    "Markdown学习与练习/Markdown插入Latex测试.md",
     "技术/Linux知识/edit_cuda_path/Edit Cuda Path.md",
-    "未命名.md",
     "Markdown学习与练习",
     "技术/Linux知识/sduo不输入密码 Linux（Debain_Ubuntu）.md",
     "技术/Linux知识/Linux重命名用户名和主机名.md",
