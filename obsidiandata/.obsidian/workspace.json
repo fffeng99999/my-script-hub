@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust学习/Rust学习.md",
+                "file": "Rust学习/入门级程序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust学习"
+              "title": "入门级程序"
             }
           }
         ]
@@ -182,9 +182,11 @@
   },
   "active": "9eed74a57d4710d9",
   "lastOpenFiles": [
+    "Rust学习/开始.md",
+    "Rust学习/入门级程序.md",
+    "Rust学习/Rust程序结构.md",
     "技术/cbfs_x230server配置记录/由1panel面板配置的程序/网站ariaNg.md",
     "技术/网页技术/如何识别客户端架构.md",
-    "Rust学习/Rust学习.md",
     "技术/网页技术",
     "技术/网页技术.md",
     "欢迎.md",
@@ -222,8 +224,6 @@
     "技术/Linux知识/Linux重命名用户名和主机名.md",
     "技术/电脑快捷操作/use_command_quickly.md",
     "技术/电脑快捷操作",
-    "技术/编译课程.md",
-    "技术/操作系统的优化.md",
-    "技术/Linux知识/shell终端文件名称的颜色和权限的对应关系.md"
+    "技术/编译课程.md"
   ]
 }
