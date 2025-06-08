@@ -11,10 +11,14 @@
             "id": "76bd334ba397cd64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工程实践34/开题报告 Gemini v0.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "开题报告 Gemini v0.1"
             }
           }
         ]
@@ -178,6 +182,14 @@
   },
   "active": "76bd334ba397cd64",
   "lastOpenFiles": [
+    "工程实践34/开题报告 Kimi v0.1.md",
+    "工程实践34/开题报告提示词.md",
+    "工程实践34/开题报告提示词2.md",
+    "工程实践34/开题报告提示词Kimi版.md",
+    "工程实践34/开题报告 Gemini v0.1.md",
+    "工程实践34/工程实践选题2提示词框架.md",
+    "工程实践34/大预言模型提示词框架模板.md",
+    "工程实践34",
     "测试html引用.md",
     "HTML import/MarkDown 中使用 LaTeX 数学式 - nowgood - 博客园.md",
     "HTML import/Attachments/35695-20230906145857937-1471873834.gif",
