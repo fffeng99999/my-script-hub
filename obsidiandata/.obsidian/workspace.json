@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工程实践34/前端设计/demovue文件.md",
+                "file": "论文 文献综述/写作提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "demovue文件"
+              "title": "写作提示词"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "5995f3f430963173",
@@ -178,18 +177,27 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "9eed74a57d4710d9",
   "lastOpenFiles": [
+    "论文 文献综述/Learning Syntax Without Planting Trees Understanding When and Why Transformers Generalize Hierarchically.md",
+    "论文 文献综述/Dataset Interfaces Diagnosing Model Failures Using Controllable Counterfactuals.md",
+    "论文 文献综述/Analyzing Multi-Head Self-Attention Specialized Heads Do the Heavy Lifting with Sparse Outputs.md",
+    "论文 文献综述/A Primer in BERTology.md",
+    "论文 文献综述/写作提示词.md",
+    "工程实践34/前端设计/demovue文件.md",
+    "论文 文献综述",
     "工程实践34/前端设计/InputBar组件.md",
     "工程实践34/工程实践选题2提示词框架.md",
     "工程实践34/开题报告/开题报告 Gemini v0.1.md",
     "工程实践34/开题报告/开题报告 Kimi v0.1.md",
     "工程实践34/开题报告",
     "工程实践34/kai.md",
-    "工程实践34/前端设计/demovue文件.md",
     "工程实践34/开题报告/开题报告提示词.md",
     "Pasted image 20250610112849.png",
     "Rust学习/入门级程序.md",
@@ -221,10 +229,6 @@
     "HTML import/新标签页.md",
     "HTML import",
     "Markdown学习与练习/基本语法.md",
-    "www.baidu.com.md",
-    "Markdown学习与练习/“ ' ”反引号的使用.md",
-    "Markdown学习与练习/Markdown插入Latex测试.md",
-    "技术/Linux知识/edit_cuda_path/Edit Cuda Path.md",
     "Markdown学习与练习",
     "技术/电脑快捷操作"
   ]
