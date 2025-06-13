@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文 文献综述/写作提示词.md",
+                "file": "工程实践34/可选参数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "写作提示词"
+              "title": "可选参数"
             }
           }
         ]
@@ -185,11 +185,17 @@
   },
   "active": "9eed74a57d4710d9",
   "lastOpenFiles": [
+    "工程实践34/扩展功能设计.md",
+    "工程实践34/可选参数.md",
+    "论文 文献综述/论文引用名称.md",
+    "论文 文献综述/论文引用名称顺序版.md",
+    "论文 文献综述/撰写思路.md",
+    "论文 文献综述/查找论文提示词.md",
+    "论文 文献综述/写作提示词.md",
     "论文 文献综述/Learning Syntax Without Planting Trees Understanding When and Why Transformers Generalize Hierarchically.md",
     "论文 文献综述/Dataset Interfaces Diagnosing Model Failures Using Controllable Counterfactuals.md",
     "论文 文献综述/Analyzing Multi-Head Self-Attention Specialized Heads Do the Heavy Lifting with Sparse Outputs.md",
     "论文 文献综述/A Primer in BERTology.md",
-    "论文 文献综述/写作提示词.md",
     "工程实践34/前端设计/demovue文件.md",
     "论文 文献综述",
     "工程实践34/前端设计/InputBar组件.md",
@@ -211,11 +217,7 @@
     "欢迎.md",
     "Rust学习",
     "工程实践34/开题报告/开题报告提示词2.md",
-    "工程实践34/开题报告/开题报告提示词Kimi版.md",
-    "工程实践34/大预言模型提示词框架模板.md",
     "工程实践34",
-    "测试html引用.md",
-    "HTML import/MarkDown 中使用 LaTeX 数学式 - nowgood - 博客园.md",
     "HTML import/Attachments/35695-20230906145857937-1471873834.gif",
     "HTML import/Attachments/35695-20250603185123444-694370975.jpg",
     "HTML import/Attachments/1182370-20170830201334046-1033111420.jpg",
@@ -226,9 +228,7 @@
     "HTML import/Attachments/myblog.svg",
     "HTML import/Attachments/newpost.svg",
     "HTML import/Attachments",
-    "HTML import/新标签页.md",
     "HTML import",
-    "Markdown学习与练习/基本语法.md",
     "Markdown学习与练习",
     "技术/电脑快捷操作"
   ]
