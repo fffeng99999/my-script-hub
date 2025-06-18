@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工程实践34/模型调用：.md",
+                "file": "论文 文献综述/网页制作.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "模型调用："
+              "title": "网页制作"
             }
           }
         ]
@@ -185,23 +186,27 @@
   },
   "active": "9eed74a57d4710d9",
   "lastOpenFiles": [
-    "工程实践34/实现图片短边接框.md",
-    "工程实践34/模型调用：.md",
+    "工程实践34/动态响应报告参数数量.md",
+    "论文 文献综述/网页制作.md",
+    "ai询问模板.md",
+    "工程实践34/根据steps模拟参数.md",
+    "工程实践34/后端修改.md",
+    "工程实践34/大预言模型提示词框架模板.md",
+    "工程实践34/报告参数回传.md",
+    "工程实践34/工程实践选题2提示词框架.md",
+    "工程实践34/可选参数.md",
     "工程实践34/扩展功能设计.md",
     "工程实践34/模型绑定参数.md",
+    "工程实践34/模型调用.md",
     "工程实践34/如片对比失效.md",
+    "工程实践34/实现图片短边接框.md",
     "工程实践34/数据包封装.md",
-    "ai询问模板.md",
     "Pasted image 20250610112849.png",
     "工程实践34/未命名 1.md",
     "论文 文献综述/论文引用名称.md",
     "论文 文献综述/论文引用名称顺序版.md",
     "工程实践34/API编写.md",
-    "工程实践34/后端修改.md",
     "工程实践34/API.md",
-    "工程实践34/可选参数.md",
-    "工程实践34/工程实践选题2提示词框架.md",
-    "工程实践34/大预言模型提示词框架模板.md",
     "工程实践34/前端优化/整合图像变换状态.md",
     "工程实践34/前端优化/整合报告逻辑和数据到.md",
     "工程实践34/前端优化",
@@ -209,9 +214,6 @@
     "论文 文献综述/查找论文提示词.md",
     "论文 文献综述/写作提示词.md",
     "论文 文献综述/Learning Syntax Without Planting Trees Understanding When and Why Transformers Generalize Hierarchically.md",
-    "论文 文献综述/Dataset Interfaces Diagnosing Model Failures Using Controllable Counterfactuals.md",
-    "论文 文献综述/Analyzing Multi-Head Self-Attention Specialized Heads Do the Heavy Lifting with Sparse Outputs.md",
-    "论文 文献综述/A Primer in BERTology.md",
     "论文 文献综述",
     "工程实践34/开题报告",
     "工程实践34/前端设计",
