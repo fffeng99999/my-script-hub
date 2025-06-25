@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e67f4ae690282fda",
+        "id": "66d438a2aa1fc05d",
         "type": "tabs",
         "children": [
           {
-            "id": "9eed74a57d4710d9",
+            "id": "e8a1a22ac82d2b2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文 文献综述/网页制作.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "网页制作"
+              "title": "新标签页"
             }
           }
         ]
@@ -184,10 +179,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9eed74a57d4710d9",
+  "active": "10617858497a8928",
   "lastOpenFiles": [
-    "工程实践34/动态响应报告参数数量.md",
+    "工程实践34/工程实践答辩.md",
     "论文 文献综述/网页制作.md",
+    "工程实践34/动态响应报告参数数量.md",
     "ai询问模板.md",
     "工程实践34/根据steps模拟参数.md",
     "工程实践34/后端修改.md",
@@ -201,7 +197,7 @@
     "工程实践34/如片对比失效.md",
     "工程实践34/实现图片短边接框.md",
     "工程实践34/数据包封装.md",
-    "Pasted image 20250610112849.png",
+    "工程实践34/Pasted image 20250610112849.png",
     "工程实践34/未命名 1.md",
     "论文 文献综述/论文引用名称.md",
     "论文 文献综述/论文引用名称顺序版.md",
@@ -213,7 +209,6 @@
     "论文 文献综述/撰写思路.md",
     "论文 文献综述/查找论文提示词.md",
     "论文 文献综述/写作提示词.md",
-    "论文 文献综述/Learning Syntax Without Planting Trees Understanding When and Why Transformers Generalize Hierarchically.md",
     "论文 文献综述",
     "工程实践34/开题报告",
     "工程实践34/前端设计",
