@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66d438a2aa1fc05d",
+        "id": "b80bceef16b5f622",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a1a22ac82d2b2d",
+            "id": "f72fd8667fada1ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "技术/Linux知识/安装桌面轻量环境.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "安装桌面轻量环境"
             }
           }
         ]
@@ -179,8 +183,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "10617858497a8928",
+  "active": "f72fd8667fada1ec",
   "lastOpenFiles": [
+    "技术/Linux知识/Ubuntu 22 挂在smb共享教程.md",
+    "技术/Linux知识/安装桌面轻量环境.md",
+    "技术/Linux知识/命令设置时区为+8.md",
+    "工程实践34/Pasted image 20250610112849.png",
     "工程实践34/工程实践答辩.md",
     "论文 文献综述/网页制作.md",
     "工程实践34/动态响应报告参数数量.md",
@@ -197,7 +205,6 @@
     "工程实践34/如片对比失效.md",
     "工程实践34/实现图片短边接框.md",
     "工程实践34/数据包封装.md",
-    "工程实践34/Pasted image 20250610112849.png",
     "工程实践34/未命名 1.md",
     "论文 文献综述/论文引用名称.md",
     "论文 文献综述/论文引用名称顺序版.md",
@@ -206,9 +213,6 @@
     "工程实践34/前端优化/整合图像变换状态.md",
     "工程实践34/前端优化/整合报告逻辑和数据到.md",
     "工程实践34/前端优化",
-    "论文 文献综述/撰写思路.md",
-    "论文 文献综述/查找论文提示词.md",
-    "论文 文献综述/写作提示词.md",
     "论文 文献综述",
     "工程实践34/开题报告",
     "工程实践34/前端设计",
