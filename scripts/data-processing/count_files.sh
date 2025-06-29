@@ -1,0 +1,73 @@
+#!/bin/bash
+
+# 打印帮助信息
+print_help() {
+    echo "用法: $0 [--show | -S] [目录路径] [文件后缀]"
+    echo
+    echo "参数说明："
+    echo "  --show 或 -S     （可选）显示查找到的文件名"
+    echo "  目录路径          （可选）指定要查找的目录，默认当前目录"
+    echo "  文件后缀          （可选）指定文件后缀（不含点），默认统计所有文件"
+    echo
+    echo "示例："
+    echo "  $0                      # 统计当前目录下所有文件数量"
+    echo "  $0 --show               # 显示并统计当前目录下所有文件"
+    echo "  $0 ./videos mp4         # 统计 ./videos 目录下 mp4 文件数量"
+    echo "  $0 -S ./videos mp4      # 同上，并显示文件名"
+}
+
+# 处理 --help 参数
+if [[ "$1" == "-h" || "$1" == "--help" ]]; then
+    print_help
+    exit 0
+fi
+
+# 参数初始化
+show_files=false
+dir="."
+suffix=""
+
+# 检查是否为显示开关
+if [[ "$1" == "--show" || "$1" == "-S" ]]; then
+    show_files=true
+    shift
+fi
+
+# 设置目录路径参数（如果存在）
+if [[ -n "$1" ]]; then
+    dir="$1"
+    shift
+fi
+
+# 设置文件后缀参数（如果存在）
+if [[ -n "$1" ]]; then
+    suffix="$1"
+fi
+
+# 检查目录是否存在
+if [[ ! -d "$dir" ]]; then
+    echo "❌ 错误：路径 '$dir' 不是有效目录。"
+    exit 1
+fi
+
+# 构造 find 命令
+if [[ -n "$suffix" ]]; then
+    find_cmd=(find "$dir" -type f -iname "*.$suffix")
+else
+    find_cmd=(find "$dir" -type f)
+fi
+
+# 查找并可选打印文件名
+if $show_files; then
+    echo "📄 匹配文件如下："
+    "${find_cmd[@]}"
+    echo
+fi
+
+# 统计文件数
+count=$("${find_cmd[@]}" | wc -l)
+
+# 输出统计信息
+echo "📁 目录        : $dir"
+[[ -n "$suffix" ]] && echo "🔍 文件后缀    : .$suffix" || echo "🔍 文件后缀    : (所有)"
+echo "📦 匹配文件数量: $count"
