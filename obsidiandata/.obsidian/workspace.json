@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b80bceef16b5f622",
+        "id": "805ce4b7a1cde1a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f72fd8667fada1ec",
+            "id": "b1027d8eb31975a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/Linux知识/安装桌面轻量环境.md",
+                "file": "技术/Linux脚本/查询文件脚本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装桌面轻量环境"
+              "title": "查询文件脚本"
             }
           }
         ]
@@ -183,16 +183,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f72fd8667fada1ec",
+  "active": "b1027d8eb31975a6",
   "lastOpenFiles": [
-    "技术/Linux知识/Ubuntu 22 挂在smb共享教程.md",
+    "未命名.md",
+    "技术/Linux脚本/查询文件脚本.md",
+    "技术/Linux脚本",
+    "论文",
+    "论文/论文 论文写作课",
+    "Rust学习/Rust程序结构.md",
+    "欢迎.md",
+    "AI询问模板.md",
     "技术/Linux知识/安装桌面轻量环境.md",
+    "未命名.canvas",
+    "技术/Linux知识/Ubuntu 22 挂在smb共享教程.md",
     "技术/Linux知识/命令设置时区为+8.md",
     "工程实践34/Pasted image 20250610112849.png",
     "工程实践34/工程实践答辩.md",
-    "论文 文献综述/网页制作.md",
+    "论文/论文 文献综述/网页制作.md",
     "工程实践34/动态响应报告参数数量.md",
-    "ai询问模板.md",
     "工程实践34/根据steps模拟参数.md",
     "工程实践34/后端修改.md",
     "工程实践34/大预言模型提示词框架模板.md",
@@ -206,14 +214,10 @@
     "工程实践34/实现图片短边接框.md",
     "工程实践34/数据包封装.md",
     "工程实践34/未命名 1.md",
-    "论文 文献综述/论文引用名称.md",
-    "论文 文献综述/论文引用名称顺序版.md",
-    "工程实践34/API编写.md",
-    "工程实践34/API.md",
-    "工程实践34/前端优化/整合图像变换状态.md",
-    "工程实践34/前端优化/整合报告逻辑和数据到.md",
+    "论文/论文 文献综述/论文引用名称.md",
+    "论文/论文 文献综述/论文引用名称顺序版.md",
     "工程实践34/前端优化",
-    "论文 文献综述",
+    "论文/论文 文献综述",
     "工程实践34/开题报告",
     "工程实践34/前端设计",
     "技术/网页技术",
@@ -227,9 +231,6 @@
     "HTML import/Attachments/lite-mode-on.svg",
     "HTML import/Attachments/message.svg",
     "HTML import/Attachments/myblog.svg",
-    "HTML import/Attachments/newpost.svg",
-    "HTML import/Attachments",
-    "HTML import",
-    "Markdown学习与练习"
+    "HTML import/Attachments/newpost.svg"
   ]
 }
