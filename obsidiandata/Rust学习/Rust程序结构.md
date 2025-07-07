@@ -3,4 +3,4 @@
 - 命令行交互
 ---
 使用`rustc`进行编译
-`cargo tun` 编译并运行
+`cargo run` 编译并运行
