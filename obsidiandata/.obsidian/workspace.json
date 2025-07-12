@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8d578e258a56ed5",
+        "id": "13bff585c22acf08",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0148432d80a49e",
+            "id": "a54006fe072be599",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rust学习/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -178,8 +179,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4a0815869a44c8f7",
+  "active": "10617858497a8928",
   "lastOpenFiles": [
+    "Rust学习/官方文档中文版",
+    "Rust学习/未命名.md",
+    "Markdown学习与练习/“ ' ”反引号的使用.md",
+    "Rust学习/使用字符串储存 UTF-8 编码的文本 - Rust 程序设计语言 简体中文版.md",
+    "thirdclippings/test.md",
+    "thirdclippings",
     "Rust学习/什么是所有权？ - Rust 程序设计语言 简体中文版.md",
     "Rust学习/基础笔记/Rust程序结构.md",
     "Rust学习/基础笔记/三种注释方法.md",
@@ -204,17 +211,12 @@
     "欢迎.md",
     "归档/论文 20250630/论文 论文写作课/要求.md",
     "归档/论文 20250630/论文 论文写作课/选题.md",
-    "归档/论文 20250630/论文 论文写作课/参考文献行文顺序版.md",
-    "归档/论文 20250630/论文 论文写作课/论文 演示版/论文 3.md",
-    "归档/论文 20250630/论文 论文写作课/论文 演示版/论文 2.md",
-    "归档/论文 20250630/论文 论文写作课/论文 演示版/论文 1.md",
     "归档/论文 20250630/论文 论文写作课/提示词",
     "归档/论文 20250630/论文 论文写作课/论文 演示版",
     "JD 编程培训",
     "归档/科技前沿",
     "技术/Linux脚本",
     "归档/论文 20250630",
-    "归档/论文 20250630/论文 论文写作课",
     "未命名.canvas",
     "归档/工程实践34/Pasted image 20250610112849.png",
     "HTML import/Attachments/35695-20230906145857937-1471873834.gif",
