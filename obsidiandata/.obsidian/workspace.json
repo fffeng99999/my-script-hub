@@ -11,10 +11,14 @@
             "id": "3af5425951d396e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rust学习/参考项目1/概览.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "概览"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust学习/trpl-zh-cn/src/appendix-00.md",
+                "file": "Rust学习/参考项目1/概览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "appendix-00 的大纲"
+              "title": "概览 的大纲"
             }
           },
           {
@@ -162,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,19 +185,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10617858497a8928",
+  "active": "3af5425951d396e9",
   "lastOpenFiles": [
+    "Rust学习/参考项目1/ThisSeanZhanglandscape The goal is to easily configure your favorite Linux distribution as a router using the web UI.md",
+    "Rust学习/参考项目1/概览.md",
+    "Rust学习/images/Pasted image 20250712163007.png",
+    "Rust学习/参考项目1",
+    "Rust学习/学习指导.md",
+    "Rust学习/images",
+    "Rust学习/未命名.md",
+    "Rust学习/images/Pasted image 20250712162911.png",
+    "Rust学习/images/Pasted image 20250712162701.png",
+    "Rust学习/images/Pasted image 20250712162626.png",
+    "Rust学习/images/Pasted image 20250712162622.png",
+    "Rust学习/images/Pasted image 20250712162245.png",
+    "Rust学习/trpl-zh-cn/src/appendix-00.md",
     "Rust学习/trpl-zh-cn/src/ch08-02-strings.md",
     "Rust学习/trpl-zh-cn/src/ch03-00-common-programming-concepts.md",
     "Rust学习/trpl-zh-cn/src/README.md",
     "Rust学习/trpl-zh-cn/src/SUMMARY.md",
-    "Rust学习/trpl-zh-cn/src/appendix-00.md",
     "test.md",
     "Rust学习/trpl-zh-cn/src/ch07-05-separating-modules-into-different-files.md",
     "Rust学习/官方文档中文版/Slice 类型 - Rust 程序设计语言 简体中文版.md",
     "Rust学习/官方文档中文版/函数 - Rust 程序设计语言 简体中文版.md",
     "Rust学习/官方文档中文版/引用与借用 - Rust 程序设计语言 简体中文版.md",
-    "Rust学习/未命名.md",
     "Rust学习/trpl-zh-cn/theme/semantic-notes.css",
     "Rust学习/trpl-zh-cn/theme/listing.css",
     "Rust学习/trpl-zh-cn/theme/2018-edition.css",
@@ -201,12 +217,6 @@
     "Rust学习/trpl-zh-cn/src/img/ferris/not_desired_behavior.svg",
     "Rust学习/trpl-zh-cn/src/img/ferris/does_not_compile.svg",
     "Rust学习/trpl-zh-cn/src/img/trpl21-01.png",
-    "Rust学习/trpl-zh-cn/src/img/trpl17-08.svg",
-    "Rust学习/trpl-zh-cn/src/img/trpl17-09.svg",
-    "Rust学习/trpl-zh-cn/src/img/trpl17-07.svg",
-    "Rust学习/trpl-zh-cn/src/img/trpl17-05.svg",
-    "Rust学习/trpl-zh-cn/src/img/trpl17-06.svg",
-    "Rust学习/trpl-zh-cn/src/img/trpl17-03.svg",
     "Rust学习/trpl-zh-cn/src/img/ferris",
     "Rust学习/trpl-zh-cn/src/img",
     "Rust学习/trpl-zh-cn/src/title-page.md",
@@ -221,13 +231,8 @@
     "Rust学习/trpl-zh-cn/src/ch20-03-advanced-types.md",
     "Rust学习/trpl-zh-cn/src/ch20-02-advanced-traits.md",
     "Rust学习/trpl-zh-cn/src/ch20-01-unsafe-rust.md",
-    "Rust学习/trpl-zh-cn/src/ch20-00-advanced-features.md",
-    "Rust学习/trpl-zh-cn/src/ch19-03-pattern-syntax.md",
-    "Rust学习/trpl-zh-cn/src/ch19-02-refutability.md",
     "Rust学习/trpl-zh-cn/src",
     "Rust学习/trpl-zh-cn/listings/ch21-web-server/no-listing-07-final-code/src/lib.rs",
-    "Rust学习/trpl-zh-cn/listings/ch21-web-server/no-listing-07-final-code/src/main.rs",
-    "Rust学习/trpl-zh-cn/listings/ch21-web-server/no-listing-07-final-code/src",
     "未命名.canvas"
   ]
 }
