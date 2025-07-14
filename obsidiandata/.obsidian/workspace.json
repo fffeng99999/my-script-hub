@@ -187,6 +187,8 @@
   },
   "active": "c38d8177a2dd4ac2",
   "lastOpenFiles": [
+    "未命名.md",
+    "Rust学习/学习指导.md",
     "用友 实习",
     "技术/OpenWrt/luci-i18n-ttyd-zh-cn自动登陆root.md",
     "技术/Linux知识/安装桌面轻量环境.md",
@@ -195,7 +197,6 @@
     "Rust学习/参考项目1/ThisSeanZhanglandscape The goal is to easily configure your favorite Linux distribution as a router using the web UI.md",
     "Rust学习/images/Pasted image 20250712163007.png",
     "Rust学习/参考项目1",
-    "Rust学习/学习指导.md",
     "Rust学习/images",
     "Rust学习/未命名.md",
     "Rust学习/images/Pasted image 20250712162911.png",
@@ -232,7 +233,6 @@
     "Rust学习/trpl-zh-cn/src/ch21-00-final-project-a-web-server.md",
     "Rust学习/trpl-zh-cn/src/ch20-05-macros.md",
     "Rust学习/trpl-zh-cn/src",
-    "Rust学习/trpl-zh-cn/listings/ch21-web-server/no-listing-07-final-code/src/lib.rs",
     "未命名.canvas"
   ]
 }
