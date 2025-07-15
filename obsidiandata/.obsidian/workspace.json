@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e54545f45d7e147",
+        "id": "131d101d6c13c257",
         "type": "tabs",
         "children": [
           {
-            "id": "c38d8177a2dd4ac2",
+            "id": "d40bc0f2a78e3a4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust学习/学习指导.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习指导"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,10 +181,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c38d8177a2dd4ac2",
+  "active": "d40bc0f2a78e3a4a",
   "lastOpenFiles": [
-    "未命名.md",
     "Rust学习/学习指导.md",
+    "未命名.md",
     "用友 实习",
     "技术/OpenWrt/luci-i18n-ttyd-zh-cn自动登陆root.md",
     "技术/Linux知识/安装桌面轻量环境.md",
