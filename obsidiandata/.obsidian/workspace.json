@@ -11,10 +11,14 @@
             "id": "d40bc0f2a78e3a4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "技术/oracle数据库.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "oracle数据库"
             }
           }
         ]
@@ -183,6 +187,19 @@
   },
   "active": "d40bc0f2a78e3a4a",
   "lastOpenFiles": [
+    "归档/科技前沿/地球工学.md",
+    "技术/oracle数据库.md",
+    "用友 实习/企业数字化.md",
+    "用友 实习/bip系统.md",
+    "用友 实习/erp系统.md",
+    "用友 实习/images/Pasted image 20250722100630.png",
+    "用友 实习/images/Pasted image 20250722100808.png",
+    "用友 实习/images/Pasted image 20250722102125.png",
+    "用友 实习/images/Pasted image 20250722100818.png",
+    "test.md",
+    "用友 实习/images/Pasted image 20250722100434.png",
+    "用友 实习/images",
+    "用友 实习/images.md",
     "Rust学习/学习指导.md",
     "未命名.md",
     "用友 实习",
@@ -199,13 +216,11 @@
     "Rust学习/images/Pasted image 20250712162701.png",
     "Rust学习/images/Pasted image 20250712162626.png",
     "Rust学习/images/Pasted image 20250712162622.png",
-    "Rust学习/images/Pasted image 20250712162245.png",
     "Rust学习/trpl-zh-cn/src/appendix-00.md",
     "Rust学习/trpl-zh-cn/src/ch08-02-strings.md",
     "Rust学习/trpl-zh-cn/src/ch03-00-common-programming-concepts.md",
     "Rust学习/trpl-zh-cn/src/README.md",
     "Rust学习/trpl-zh-cn/src/SUMMARY.md",
-    "test.md",
     "Rust学习/trpl-zh-cn/src/ch07-05-separating-modules-into-different-files.md",
     "Rust学习/官方文档中文版/Slice 类型 - Rust 程序设计语言 简体中文版.md",
     "Rust学习/官方文档中文版/函数 - Rust 程序设计语言 简体中文版.md",
@@ -214,21 +229,10 @@
     "Rust学习/trpl-zh-cn/theme/listing.css",
     "Rust学习/trpl-zh-cn/theme/2018-edition.css",
     "Rust学习/trpl-zh-cn/theme",
-    "Rust学习/trpl-zh-cn/src/img/ferris/panics.svg",
-    "Rust学习/trpl-zh-cn/src/img/ferris/not_desired_behavior.svg",
-    "Rust学习/trpl-zh-cn/src/img/ferris/does_not_compile.svg",
-    "Rust学习/trpl-zh-cn/src/img/trpl21-01.png",
     "Rust学习/trpl-zh-cn/src/img/ferris",
     "Rust学习/trpl-zh-cn/src/img",
     "Rust学习/trpl-zh-cn/src/title-page.md",
     "Rust学习/trpl-zh-cn/src/PREFACE.md",
-    "Rust学习/trpl-zh-cn/src/foreword.md",
-    "Rust学习/trpl-zh-cn/src/ch21-03-graceful-shutdown-and-cleanup.md",
-    "Rust学习/trpl-zh-cn/src/ch21-02-multithreaded.md",
-    "Rust学习/trpl-zh-cn/src/ch21-01-single-threaded.md",
-    "Rust学习/trpl-zh-cn/src/ch21-00-final-project-a-web-server.md",
-    "Rust学习/trpl-zh-cn/src/ch20-05-macros.md",
-    "Rust学习/trpl-zh-cn/src",
     "未命名.canvas"
   ]
 }
