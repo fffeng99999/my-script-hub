@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "131d101d6c13c257",
+        "id": "1cbf83164bde4a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "d40bc0f2a78e3a4a",
+            "id": "d994c4bc4bc82d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/oracle数据库.md",
+                "file": "Mermaid学习与练习/ch4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oracle数据库"
+              "title": "ch4"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 266.5
   },
   "right": {
     "id": "5995f3f430963173",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/Linux知识/在fstab误删系统磁盘的挂在，恢复.md",
+                "file": "Rust学习/进阶笔记/C与Rust的对比学习/C与Rust判定赋值比较（双目运算符）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "在fstab误删系统磁盘的挂在，恢复 的大纲"
+              "title": "C与Rust判定赋值比较（双目运算符） 的大纲"
             }
           },
           {
@@ -185,10 +185,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d40bc0f2a78e3a4a",
+  "active": "d994c4bc4bc82d75",
   "lastOpenFiles": [
-    "归档/科技前沿/地球工学.md",
+    "Mermaid学习与练习/ch3.md",
+    "Mermaid学习与练习/ch4.md",
+    "Mermaid学习与练习/ch2.md",
+    "Mermaid学习与练习/cp1.md",
+    "Markdown学习与练习/基本语法.md",
+    "Markdown学习与练习/高级功能拓展.md",
+    "Markdown学习与练习/Markdown只能文内链接.md",
+    "Rust学习/进阶笔记/C与Rust的对比学习/C与Rust判定赋值比较（双目运算符）.md",
+    "Rust学习/进阶笔记/C与Rust的对比学习/关于C语言的指针到Rust重写相同功能的转换.md",
+    "Rust学习/进阶笔记/C与Rust的对比学习",
+    "Rust学习/进阶笔记/去除String new读取字符串的时候，把换行符也读入.md",
+    "Rust学习/基础笔记/Rust的“可变数组”.md",
+    "Rust学习/进阶笔记/rust数组使用报错.md",
+    "Rust学习/扩展资料/C FFI是什么.md",
+    "Rust学习/进阶笔记/可变与可变.md",
+    "Rust学习/扩展资料",
+    "Rust学习/未命名.md",
+    "Rust学习/学习指导.md",
+    "Rust学习/进阶笔记",
+    "Rust学习/基础笔记/基础.md",
+    "Rust学习/基础笔记/入门级程序.md",
+    "Rust学习/基础笔记/crate包的同级调用（必须增加crate）.md",
+    "Rust学习/基础笔记/use和mod的区别以及使用场景.md",
+    "Rust学习/用法收集/Option T 的用法.md",
+    "Rust学习/用法收集",
+    "Rust学习/images/Rust `Option_T_` 方法结构图.png",
+    "Mermaid学习与练习",
     "技术/oracle数据库.md",
+    "归档/科技前沿/地球工学.md",
     "用友 实习/企业数字化.md",
     "用友 实习/bip系统.md",
     "用友 实习/erp系统.md",
@@ -196,43 +223,16 @@
     "用友 实习/images/Pasted image 20250722100808.png",
     "用友 实习/images/Pasted image 20250722102125.png",
     "用友 实习/images/Pasted image 20250722100818.png",
-    "test.md",
     "用友 实习/images/Pasted image 20250722100434.png",
     "用友 实习/images",
-    "用友 实习/images.md",
-    "Rust学习/学习指导.md",
-    "未命名.md",
     "用友 实习",
-    "技术/OpenWrt/luci-i18n-ttyd-zh-cn自动登陆root.md",
-    "技术/Linux知识/安装桌面轻量环境.md",
-    "技术/Linux知识/在fstab误删系统磁盘的挂在，恢复.md",
-    "Rust学习/参考项目1/概览.md",
-    "Rust学习/参考项目1/ThisSeanZhanglandscape The goal is to easily configure your favorite Linux distribution as a router using the web UI.md",
     "Rust学习/images/Pasted image 20250712163007.png",
     "Rust学习/参考项目1",
     "Rust学习/images",
-    "Rust学习/未命名.md",
     "Rust学习/images/Pasted image 20250712162911.png",
     "Rust学习/images/Pasted image 20250712162701.png",
     "Rust学习/images/Pasted image 20250712162626.png",
-    "Rust学习/images/Pasted image 20250712162622.png",
-    "Rust学习/trpl-zh-cn/src/appendix-00.md",
-    "Rust学习/trpl-zh-cn/src/ch08-02-strings.md",
-    "Rust学习/trpl-zh-cn/src/ch03-00-common-programming-concepts.md",
-    "Rust学习/trpl-zh-cn/src/README.md",
-    "Rust学习/trpl-zh-cn/src/SUMMARY.md",
-    "Rust学习/trpl-zh-cn/src/ch07-05-separating-modules-into-different-files.md",
-    "Rust学习/官方文档中文版/Slice 类型 - Rust 程序设计语言 简体中文版.md",
-    "Rust学习/官方文档中文版/函数 - Rust 程序设计语言 简体中文版.md",
-    "Rust学习/官方文档中文版/引用与借用 - Rust 程序设计语言 简体中文版.md",
     "Rust学习/trpl-zh-cn/theme/semantic-notes.css",
-    "Rust学习/trpl-zh-cn/theme/listing.css",
-    "Rust学习/trpl-zh-cn/theme/2018-edition.css",
-    "Rust学习/trpl-zh-cn/theme",
-    "Rust学习/trpl-zh-cn/src/img/ferris",
-    "Rust学习/trpl-zh-cn/src/img",
-    "Rust学习/trpl-zh-cn/src/title-page.md",
-    "Rust学习/trpl-zh-cn/src/PREFACE.md",
     "未命名.canvas"
   ]
 }
